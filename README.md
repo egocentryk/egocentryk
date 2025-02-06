@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔎 Where to find me:
 
-- [LinkedIn]([https://youtube.com/@deborah_kurata](https://www.linkedin.com/in/lukaszskowron/))
+- [LinkedIn](https://www.linkedin.com/in/lukaszskowron/)
 
 <img align="left" alt="TypeScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
