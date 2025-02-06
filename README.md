@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Łukasz and I'm javascript engineer building on a daily basis modern web applications using various technology stack, including:
+
+TypeScript / Next.js / Node.js / Nest.js / Angular / ORMs / Docker
+
 <!--
 **egocentryk/egocentryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +19,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently learning
+
+In-depth diving into Angular 19 key featurs including:
+
+- incremental hydration
+- resource & rxResource API
+- singals & linkedSignal
+- event replay
+- hybrid rendering
+
+Next.js 15 new features including:
+
+- support for React 19 & new hooks (useActionState, useOptimistic, useFormStatus)
+- caching strategies
+- server components by default
+- support for ESLint 9
+- app router
+
 🔎 Where to find me:
 
 - [LinkedIn](https://www.linkedin.com/in/lukaszskowron/)
-
-<img align="left" alt="TypeScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NestJS" width="24px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />
-<img align="left" alt="NodeJS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PostgreSQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Docker" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
