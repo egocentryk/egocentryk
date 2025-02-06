@@ -21,21 +21,25 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 
-In-depth diving into Angular 19 key featurs including:
+In-depth diving into **Angular 19** key featurs including:
 
 - incremental hydration
-- resource & rxResource API
-- singals & linkedSignal
+- `resource` & `rxResource` API
+- singals & `linkedSignal`
 - event replay
 - hybrid rendering
 
-Next.js 15 new features including:
+**Next.js 15** new features including:
 
-- support for React 19 & new hooks (useActionState, useOptimistic, useFormStatus)
+- support for **React 19** & new hooks (`useActionState`, `useOptimistic`, `useFormStatus`)
 - caching strategies
 - server components by default
-- support for ESLint 9
+- support for **ESLint 9**
 - app router
+
+**AI**:
+
+- AI SDK by Vercel using Anthropic
 
 🔎 Where to find me:
 
