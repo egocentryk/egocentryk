@@ -2,7 +2,7 @@
 
 My name is Łukasz and I'm javascript engineer building on a daily basis modern web applications using various technology stack, including:
 
-TypeScript / Next.js / Node.js / Nest.js / Angular / ORMs / Docker
+TypeScript / Next.js / Node.js / NestJS / Angular / ORMs / Docker
 
 <!--
 **egocentryk/egocentryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,8 @@ In-depth diving into **Angular 19** key featurs including:
 - server components by default
 - support for **ESLint 9**
 - app router
+
+In general playing with **NestJS 11** building task management app
 
 **AI**:
 
