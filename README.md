@@ -37,7 +37,7 @@ In-depth diving into **Angular 19** key featurs including:
 - support for **ESLint 9**
 - app router
 
-In general playing with **NestJS 11** building task management app
+In-depth playing with **NestJS 11** & general NestJS best practices.
 
 **AI**:
 
