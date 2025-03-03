@@ -2,7 +2,7 @@
 
 My name is Łukasz and I'm javascript engineer building on a daily basis modern web applications using various technology stack, including:
 
-TypeScript / Next.js / Node.js / NestJS / Angular / ORMs / Docker
+TypeScript / NestJS / Node.js / Next.js / Angular / ORMs / DBs / Docker / AWS
 
 <!--
 **egocentryk/egocentryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,23 +21,22 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 
-In-depth diving into **Angular 19** key featurs including:
+It's march 2025, so for me it's **in-depth NestJS** ❤️ time:
+
+- enterprise-grade authentication & authorization
+- graphQL code-first/schema-first approach
+- microservices
+- architecture & advanced patterns
+- nest advanced concepts
+- Mau
+
+... and still on track with **Angular 19**:
 
 - incremental hydration
 - `resource` & `rxResource` API
 - singals & `linkedSignal`
 - event replay
 - hybrid rendering
-
-**Next.js 15** new features including:
-
-- support for **React 19** & new hooks (`useActionState`, `useOptimistic`, `useFormStatus`)
-- caching strategies
-- server components by default
-- support for **ESLint 9**
-- app router
-
-In-depth playing with **NestJS 11** & general NestJS best practices.
 
 **AI**:
 
