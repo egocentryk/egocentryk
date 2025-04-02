@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 
-It's march 2025, so for me it's **in-depth NestJS** ❤️ time:
+It's april 2025, so for me it's **in-depth NestJS** ❤️ time:
 
 - enterprise-grade authentication & authorization
 - graphQL code-first/schema-first approach
 - microservices
 - architecture & advanced patterns
 - nest advanced concepts
-- Mau
+- Mau for AWS deployments (tool is really, really great).
 
 ... and still on track with **Angular 19**:
 
@@ -37,6 +37,10 @@ It's march 2025, so for me it's **in-depth NestJS** ❤️ time:
 - singals & `linkedSignal`
 - event replay
 - hybrid rendering
+
+**AWS**
+
+- learning various topic about Amazon Web Services
 
 **AI**:
 
