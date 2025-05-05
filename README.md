@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 
-It's april 2025, so for me it's **in-depth NestJS** ❤️ time:
+It's may 2025, so for me it's **in-depth NestJS** ❤️ time:
 
 - enterprise-grade authentication & authorization
 - graphQL code-first/schema-first approach
