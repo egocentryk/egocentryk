@@ -44,6 +44,10 @@ It's july 2025, so for me it's **in-depth DATA ENGINEERING** ❤️ time:
 **AWS**
 
 - learning various topic about Amazon Web Services
+  - EMR (managed hadoop framework)
+  - AWS GLUE (serveless data integration service)
+  - S3 (scalable storage)
+  - Athena (serveless interactive analytics service)
 
 **AI**:
 
