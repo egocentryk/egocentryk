@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 
-It's july 2025, so for me it's **in-depth DATA ENGINEERING** ❤️ time:
+It's August 2025, so for me it's **in-depth DATA ENGINEERING** ❤️ time:
 
 - big data processing with Apache Spark
 - creating a Data Lakes with AWS (data partitioning, EMR serverless, Spark jobs, parquet data format, data catalogs)
